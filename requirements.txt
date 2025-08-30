@@ -1,0 +1,9 @@
+# R packages required for Bike Rental Prediction project
+
+readxl
+dplyr
+ggplot2
+plotly
+randomForest
+caret
+Metrics
