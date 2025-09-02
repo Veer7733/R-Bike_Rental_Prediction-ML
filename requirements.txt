@@ -1,5 +1,3 @@
-# R packages required for Bike Rental Prediction project
-
 readxl
 dplyr
 ggplot2
